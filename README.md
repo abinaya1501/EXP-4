@@ -48,20 +48,13 @@ TABULAR COLUMN
 Rectifier without filter
 TABULAR COLUMN
 Rectifier with filter
-![expp1](https://github.com/user-attachments/assets/0425d836-afda-4131-9c77-35bc6fdef9df)
+![we1](https://github.com/user-attachments/assets/fd1390da-ab85-4f84-bd51-ff260ab17f4b)
 
-![expp2](https://github.com/user-attachments/assets/ef927f46-6f94-4a18-b5b3-8b5b2def3afc)
+![we2](https://github.com/user-attachments/assets/46802714-b684-4947-86c7-e742661e86d1)
 
-
-![expp3](https://github.com/user-attachments/assets/f1ace930-b742-49e0-8f52-02cd80e83c01)
-
-![expp4](https://github.com/user-attachments/assets/5f580706-2ab0-46f9-a983-262cba224c17)
+![we3](https://github.com/user-attachments/assets/512208fa-1538-42f0-91d6-62f6b4f41e3d)
 
 
-![expp5](https://github.com/user-attachments/assets/755058ef-3252-4588-af06-a159a3d6d601)
-
-
-![expp5 1](https://github.com/user-attachments/assets/88df65b0-a2d9-40ec-989e-329451f974ed)
 
 
 
